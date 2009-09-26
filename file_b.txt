@@ -1,1 +1,1 @@
-Testing b. With resolve.
+This is test b. With resolve.
